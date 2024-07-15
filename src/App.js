@@ -8,8 +8,6 @@ import profile from './icons/profile_icon.png'
 
 import Home from './Home';
 import Leftbar from './Leftbar';
-import Right from './Right';
-import Down from './Down';
 
 function App() {
   return (

@@ -20,10 +20,10 @@ const Right = (props) => {
         {Name: "Atif Aslam", img:img3, id:"3"}
     ]);
     const [songs,setSongs]=useState([
-        {Name:"As It Was", img:song1, singer:"Harry Styles", audio:audio1, id:"1"},
-        {Name: "Enchanted", img: song2, singer:"Taylor Swift", audio:audio2, id:"2"},
-        {Name: "Pachtaoge", img:song3, singer:"Arijit Singh", audio:audio3, id:"3"},
-        {Name:"Dil", img:song4, singer:"Shreya Ghoshal", audio:audio4, id:"4"}
+        {Name:"As It Was", img:song1, singer:"Harry Styles", audio:audio1, link:"https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e?si=r6KQ2C9TS5OIw1iI4XSlRA", id:"1"},
+        {Name: "Enchanted", img: song2, singer:"Taylor Swift", audio:audio2, link:"https://open.spotify.com/track/04S1pkp1VaIqjg8zZqknR5?si=8c8NhipNS8uvdxfxegH00Q",id:"2"},
+        {Name: "Pachtaoge", img:song3, singer:"Arijit Singh", audio:audio3, link:"https://open.spotify.com/track/5QVHNa0ppJUOoqSd36ovQS?si=AVuIDhlWSBCv3r233AiVVg",id:"3"},
+        {Name:"Dil", img:song4, singer:"Shreya Ghoshal", audio:audio4, link:"https://open.spotify.com/track/40J6OXnrmEwR8O2LKKVeqB?si=p9cO-oKQSjuH8hY3NzMoEw",id:"4"}
     ]);
     const passId=(song)=>{
         props.setSong(song);
