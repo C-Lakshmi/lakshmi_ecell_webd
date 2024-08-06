@@ -1,3 +1,4 @@
+import React from 'react'
 import './index.css';
 import icon from './icons/melody_icon.png';
 import search_icon from './icons/magnifying-glass-solid.svg'
