@@ -1,3 +1,4 @@
+import React from 'react';
 import {one, two, three, four, five, six, seven, eight, nine} from './left_icons';
 import { useState } from 'react';
 const Leftbar = () => {

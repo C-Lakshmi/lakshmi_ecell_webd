@@ -1,3 +1,4 @@
+import React from 'react';
 import sun from './images/sun-solid.svg';
 import cloud from './images/cloud-solid.svg'
 import { useState} from 'react';

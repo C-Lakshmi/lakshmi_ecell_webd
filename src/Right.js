@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState } from "react";
 import img1 from "./right/walker.png"
 import img2 from "./right/taylor.png"
