@@ -1,6 +1,6 @@
 {
-  "homepage": "https://c-lakshmi.github.io/Music_App/",
-  "name": "Music_App",
+  "homepage": "https://c-lakshmi.github.io/music_app/",
+  "name": "music_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
